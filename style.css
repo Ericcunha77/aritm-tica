@@ -1,6 +1,6 @@
 body{
-    background-color: black;
-    color:aliceblue;
+    background-color: rgb(114, 1, 1);
+    color:rgb(3, 3, 3);
     font-family: tahoma; 
     text-align: center;
     
@@ -15,6 +15,6 @@ label{
 }
 
 input{
-     color: rgb(252, 247, 247);
+     color: rgb(0, 0, 0);
      
 }
